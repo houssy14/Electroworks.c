@@ -1,0 +1,57 @@
+*{
+    padding: 0%;
+    margin: 0;
+    width: 0x;
+    box-sizing:border-box;
+   
+}
+
+h1{
+    background-color: #0750d7f1;
+    color: rgb(21, 24, 24);
+}
+
+h2{
+    background-color: #393c43;
+ color: rgb(235, 235, 238);
+ text-align: center;
+ text-decoration-line: underline;
+ font-family: 'Courier New', Courier, monospace;
+ border: 1px solid rgb(63, 26, 107)
+ rgb(0, 0, 0)
+}
+
+p {
+    color: rgb(238, 238, 238);
+    font-size: 24px;
+    color: #000000;
+    font-weight: bold;
+    text-align: center;
+}
+input[type="password"] {
+    width: 180px;
+    padding: 10px;
+    border: 5px solid #070709;
+    border-radius: 4px;
+    /* Ajoutez d'autres propriétés selon vos besoins */
+  }
+
+  input[type="Adresse"] {
+    width: 180px;
+    padding: 10px;
+    border: 5px solid #050000;
+    border-radius: 4px;
+    /* Ajoutez d'autres propriétés selon vos besoins */
+  }
+
+  button {
+    font-size: 24px;
+    padding: 15px 30px;
+  }
+
+
+  li {
+    background-color: #f5eeee;
+    color: rgba(8, 240, 240, 0.541);
+  }
+ 
